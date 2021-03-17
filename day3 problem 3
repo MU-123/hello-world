@@ -1,0 +1,22 @@
+#include<cmath>
+#include<cstudio>
+#include<vector>
+#include<iostream>
+using namespace std;
+ 
+ struct student
+ { 
+   int age,standard;
+   string first- name,last-name;
+   
+   };
+   int main(){
+   student st;
+    
+    cin>> st.age>>st.firstname>> st.last-name>>st.standard;
+    cout<< st.age<< "" <<st.first name<< st.last name<<""<<st.standard
+    
+    return 0;
+    
+    }
+    
